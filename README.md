@@ -1,2 +1,2 @@
-# Uitware Internship 
-Hello, these are mine homework works(labs, projects, etc)
+#Uitware Internship 
+Hello, these are my homework works(labs, projects, etc.)
